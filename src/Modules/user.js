@@ -29,9 +29,9 @@ export const logoutRequest = () => async dispatch => {
 
 // initialState
 const initialState = {
-  isLoggedIn: false,
+  isLoggedIn: true,
   data: {
-    id: null,
+    id: 1,
     email: '',
     pwd: '',
     firstName: '',

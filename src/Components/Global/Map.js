@@ -14,8 +14,7 @@ import MapMarkerContainer from '../../Containers/Search/MapMarkerContainer';
 
 const Map = compose(
   withProps({
-    googleMapURL:
-      'https://maps.googleapis.com/maps/api/js?key=AIzaSyCqryK5lMUxY0i_-Zu1cUrgW3_Geg4BrWA&v=3.exp&libraries=geometry,drawing,places',
+    googleMapURL: `https://maps.googleapis.com/maps/api/js?key=${process.env.REACT_APP_API_KEY}v=3.exp&libraries=geometry,drawing,places`,
     loadingElement: (
       <div
         style={{
