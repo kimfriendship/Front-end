@@ -6,7 +6,6 @@
 
 ## 구성원
 
-**DEVengers Assemble**
 Front-end: 김우정, 주한슬, 이하은, 김태진  
 [Back-end](https://github.com/DEVengersAssemble/airdnd-backend): 윤우성, 이유진, 정재은, 최미래
 
