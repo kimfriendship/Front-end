@@ -1,6 +1,7 @@
 # airdnd
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292183/98271869-bf1f6b80-1fd3-11eb-92b7-e12de90aeb4f.gif)
+![airbnb readme](https://user-images.githubusercontent.com/60292183/98274049-51287380-1fd6-11eb-8c92-0cbfc4345324.gif)
+
 
 2020.08.03부터 2020.09.11까지 진행한 airbnb 클론 코딩 프로젝트입니다. 
 
