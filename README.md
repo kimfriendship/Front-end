@@ -1,12 +1,14 @@
 # airdnd
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60292183/98271869-bf1f6b80-1fd3-11eb-92b7-e12de90aeb4f.gif)
+
 2020.08.03부터 2020.09.11까지 진행한 airbnb 클론 코딩 프로젝트입니다. 
 
 <br>
 
 ## 구성원
 
-Front-end: 김우정, 주한슬, 이하은, 김태진  
+[Front-end](https://github.com/DEVengersAssemble/airdnd-frontend): 김우정, 주한슬, 이하은, 김태진  
 [Back-end](https://github.com/DEVengersAssemble/airdnd-backend): 윤우성, 이유진, 정재은, 최미래
 
 <br>
@@ -14,6 +16,7 @@ Front-end: 김우정, 주한슬, 이하은, 김태진
 ## 프론트엔드 핵심 목표
 
 - 프론트엔드와 백엔드 개발자들이 협업하여 프로젝트 진행
+- 코딩 작업에 앞서 기능명세서, 데이터구조, 컴포넌트 분리 등 회의 및 기록 ([Figma](https://www.figma.com/file/jRtiFrdpJW6ebdKB4ozmYS/Airbnb?node-id=3%3A92))
 - Redux를 사용하여 전역에서 상태를 관리하고, redux-thunk로 비동기 작업을 처리
 - styled-components로 스타일링하여 컴포넌트의 재사용성 증가
 - 3가지 뷰포트 사이즈로 반응형 구현
